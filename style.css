@@ -840,7 +840,6 @@ flex:1;
 display:flex;
 
 justify-content:center;
-object-position: 42% 15%;
 
 }
 
@@ -859,6 +858,8 @@ border:5px solid #3b82f6;
 box-shadow:0 0 40px rgba(59,130,246,.35);
 
 transition:.5s;
+	
+object-position: 42% 15%;
 
 }
 
